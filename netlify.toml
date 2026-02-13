@@ -7,9 +7,6 @@
 [build.processing]
   skip_processing = false
 
-[build.processing.bundler]
-  name = "esbuild"
-
 # Image optimization and caching rules
 [[headers]]
   for = "/*.{jpg,jpeg,png,gif,webp,avif,svg}"
