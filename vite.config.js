@@ -4,6 +4,8 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  Base: process.env.VITE_BASE_PATH || '/Valentine-Gift',
+
   build: {
     rollupOptions: {
       output: {
