@@ -38,7 +38,7 @@
     "leftButton": "/src/assets/left-button.png",
     "rightButton": "/src/assets/right-button.png",
     "envelopeSeal": "❤️"
-  },
+  }, 
   "gifts": {
     "gift1": "/src/assets/gift/gift1.jpg",
     "gift2": "/src/assets/gift/gift2.jpg", 
