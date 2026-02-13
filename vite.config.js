@@ -4,8 +4,8 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  Base: process.env.VITE_BASE_PATH || '/Valentine-Gift',
-
+  base: process.env.VITE_BASE_PATH || '/',
+  
   build: {
     rollupOptions: {
       output: {
@@ -21,18 +21,6 @@ export default defineConfig({
           }
         }
       }
-    },
-    chunkSizeWarningLimit: 1000,
-    cssCodeSplit: true,
-    target: 'es2015',
-    minify: true,
-  },
-  optimizeDeps: {
-    include: ['react', 'react-dom', 'framer-motion']
-  },
-  server: {
-    headers: {
-      'Cache-Control': 'public, max-age=31536000'
     }
   }
-})
+});
