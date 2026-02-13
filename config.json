@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "Lokesh💕",
+    "receiver": "Hema💕"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 Yeahhhhhh!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Patootie",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpeg",
+      "caption": "Our first special moment together."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpeg", 
+      "caption": "The strongest feeling."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpeg",
+      "caption": "That little shy look... my weakness."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpeg",
+      "caption": "Loving you feels like coming home."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpeg",
+      "caption": "Just us, making the world jealous."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpeg",
+      "caption": "She looked away, but my heart looked at her."
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Un Vizhigalil",
+      "duration": "5:04",
+      "album": "Darling",
+      "artist": "",
+      "cover": "/src/assets/album-covers/darling.jpeg",
+      "audio": "/src/assets/songs/Un Vizhigalil.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Pogatha Yennavittu",
+      "duration": "4:41", 
+      "album": "Vikram Vedha",
+      "artist": "",
+      "cover": "/src/assets/album-covers/vikram.jpeg",
+      "audio": "/src/assets/songs/Pogatha Yennavittu.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Idhu dhaan",
+      "duration": "3:07",
+      "album": "Sivapu manjal pachi",
+      "artist": "",
+      "cover": "/src/assets/album-covers/gv.jpeg",
+      "audio": "/src/assets/songs/Idhu dhaan.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Neeyum Naanum",
+      "duration": "4:57",
+      "album": "Mynaa",
+      "artist": "",
+      "cover": "/src/assets/album-covers/myna.jpeg",
+      "audio": "/src/assets/songs/Neeyum Naanum.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Unnale",
+      "duration": "5:45",
+      "album": "Darling ",
+      "artist": "",
+      "cover": "/src/assets/album-covers/unnale.jpeg",
+      "audio": "/src/assets/songs/Unnale.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Hema Thangoo💕",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nLokesh💕"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
